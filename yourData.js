@@ -1,5 +1,3 @@
-import drakkarLabel from "./styles/images/drakkar-label.png";
-
 export default {
 	//(Please Do Not Remove The comma(,) after every variable)
 	//Change The Website Template
@@ -25,26 +23,28 @@ export default {
 	projects: [
 		{
 			title: "Precificador Drakkar", //Project Title - Add Your Project Title Here
-			para: "Ferramenta de escopo interno, desenvolvido juntamente com o time de Desenvolvimento da empresa Drakkar Solos.", // Add Your Service Type Here
+			description: "Developed with Drakkar Team", // Add Your Service Type Here
 			//Project Image - Add Your Project Image Here
-			imageSrc: "drakkarLabel",
+			imageSrc:
+				"https://drive.google.com/uc?export=view&id=1PV5DOWgWLvDX1NJWrTp1bH0kbGzXK2Bf",
 			//Project URL - Add Your Project Url Here
 			url: "http://latestprecificador.drakkar.com.br/",
 		},
 		{
-			title: "Project Two", //Project Title - Add Your Project Title Here
-			description: "Web Development",
+			title: "NPS Prototype", //Project Title - Add Your Project Title Here
+			description: "UI Design",
 			//Project Image - Add Your Project Image Here
-			imageSrc: "./styles/images/drakkar-label.png",
+			imageSrc:
+				"https://drive.google.com/uc?export=view&id=1uFnOKk3O6JwQGGMoqHg19SxeSLNGHiHb",
 			//Project URL - Add Your Project Url Here
-			url: "http://chetanverma.com/",
+			url: "https://www.figma.com/file/Lu5LXJwltnmrxUcHaPmu4p/NPS?node-id=0%3A1",
 		},
 		{
 			title: "Project Three", //Project Title - Add Your Project Title Here
 			description: "Design",
 			//Project Image - Add Your Project Image Here
 			imageSrc:
-				"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"https://drive.google.com/uc?export=view&id=1PV5DOWgWLvDX1NJWrTp1bH0kbGzXK2Bf",
 			//Project URL - Add Your Project Url Here
 			url: "http://chetanverma.com/",
 		},
